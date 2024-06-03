@@ -14,3 +14,13 @@ pip install pandas
 pip install pyarrow
 python3 -m pip freeze > requirements.txt
 ```
+- SQLite Queries Performed:
+  - [Insert Records](sql/insert_records.sql)
+  - [Insert Records](sql/update_records.sql)
+  - [Insert Records](sql/delete_records.sql)
+  - [Insert Records](sql/query_aggregation.sql)
+  - [Insert Records](sql/query_filter.sql)
+  - [Insert Records](sql/query_sorting.sql)
+  - [Insert Records](sql/query_group_by.sql)
+  - [Insert Records](sql/query_join.sql)
+
