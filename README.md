@@ -16,11 +16,11 @@ python3 -m pip freeze > requirements.txt
 ```
 - SQLite Queries Performed:
   - [Insert Records](sql/insert_records.sql)
-  - [Insert Records](sql/update_records.sql)
-  - [Insert Records](sql/delete_records.sql)
-  - [Insert Records](sql/query_aggregation.sql)
-  - [Insert Records](sql/query_filter.sql)
-  - [Insert Records](sql/query_sorting.sql)
-  - [Insert Records](sql/query_group_by.sql)
-  - [Insert Records](sql/query_join.sql)
+  - [Update Records](sql/update_records.sql)
+  - [Delete Records](sql/delete_records.sql)
+  - [Query Aggregation](sql/query_aggregation.sql)
+  - [Query Filter](sql/query_filter.sql)
+  - [Query Sorting](sql/query_sorting.sql)
+  - [Query Group By](sql/query_group_by.sql)
+  - [Query Join](sql/query_join.sql)
 
