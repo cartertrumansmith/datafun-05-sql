@@ -1,0 +1,1 @@
+DELETE FROM books WHERE book_id = 'c6e67918-e509-4a6b-bc3a-979f6ad802f0'
